@@ -41,7 +41,7 @@ CORE_PIP_PACKAGES = [PIPDependency('pyclamd', 'pyClamd', '0.4.0'),
                      # We need 0.1.8 because of mitmproxy
                      PIPDependency('pyasn1', 'pyasn1', '0.4.2'),
 
-                     PIPDependency('lxml', 'lxml', '3.4.4'),
+                     PIPDependency('lxml', 'lxml', '4.4.1'),
                      PIPDependency('scapy.config', 'scapy', '2.4.0'),
                      PIPDependency('guess_language', 'guess-language', '0.2'),
                      PIPDependency('cluster', 'cluster', '1.1.1b3'),
